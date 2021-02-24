@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cserv1_a/soc_ug/fy19akhm/fy19akhm/projLibrary/Users.c
+Users.h
+/home/cserv1_a/soc_ug/fy19akhm/fy19akhm/projLibrary/Users.h
+
+/home/cserv1_a/soc_ug/fy19akhm/fy19akhm/projLibrary/Users.h
+
+/home/cserv1_a/soc_ug/fy19akhm/fy19akhm/projLibrary/book_management.c
+book_management.h
+/home/cserv1_a/soc_ug/fy19akhm/fy19akhm/projLibrary/book_management.h
+stdlib.h
+-
+
+/home/cserv1_a/soc_ug/fy19akhm/fy19akhm/projLibrary/book_management.h
+stdio.h
+-
+
+/home/cserv1_a/soc_ug/fy19akhm/fy19akhm/projLibrary/main.c
+book_management.c
+/home/cserv1_a/soc_ug/fy19akhm/fy19akhm/projLibrary/book_management.c
+Users.c
+/home/cserv1_a/soc_ug/fy19akhm/fy19akhm/projLibrary/Users.c
+string.h
+-
+

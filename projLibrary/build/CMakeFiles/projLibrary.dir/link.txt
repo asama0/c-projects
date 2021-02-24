@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -fdump-rtl-expand -g    CMakeFiles/projLibrary.dir/main.c.o CMakeFiles/projLibrary.dir/Users.c.o CMakeFiles/projLibrary.dir/book_management.c.o  -o projLibrary -rdynamic 
