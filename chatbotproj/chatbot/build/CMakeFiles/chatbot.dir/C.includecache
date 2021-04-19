@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cserv1_a/soc_ug/fy19akhm/comp1921/chatbotproj/chatbot/main.c
+stdlib.h
+-
+stdio.h
+-
+ctype.h
+-
+limits.h
+-
+strings.h
+-
+stdbool.h
+-
+
